@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Github\\AspNET-Angular\\AspNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|d:\\github\\aspnet-angular\\aspnet\\aspnetapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|solutionrelative:aspnetapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|d:\\github\\aspnet-angular\\aspnet\\aspnetapi\\controllers\\sensorseventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|solutionrelative:aspnetapi\\controllers\\sensorseventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|d:\\github\\aspnet-angular\\aspnet\\aspnetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|solutionrelative:aspnetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|d:\\github\\aspnet-angular\\aspnet\\aspnetapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|solutionrelative:aspnetapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|d:\\github\\aspnet-angular\\aspnet\\aspnetapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|solutionrelative:aspnetapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|d:\\github\\aspnet-angular\\aspnet\\aspnetapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|solutionrelative:aspnetapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|d:\\github\\aspnet-angular\\aspnet\\aspnetapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|solutionrelative:aspnetapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|d:\\github\\aspnet-angular\\aspnet\\aspnetapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B54F1F-E889-4C76-BF62-8E0A57F93716}|AspNetAPI\\AspNetAPI.csproj|solutionrelative:aspnetapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "AspNetAPI\\WeatherForecast.cs",
-              "ToolTip": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "AspNetAPI\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "SensorsEventsController.cs",
+              "DocumentMoniker": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\Controllers\\SensorsEventsController.cs",
+              "RelativeDocumentMoniker": "AspNetAPI\\Controllers\\SensorsEventsController.cs",
+              "ToolTip": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\Controllers\\SensorsEventsController.cs",
+              "RelativeToolTip": "AspNetAPI\\Controllers\\SensorsEventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T20:15:45.272Z",
+              "WhenOpened": "2024-04-24T19:52:02.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "AspNetAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "AspNetAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AspNetAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\appsettings.Development.json",
+              "RelativeToolTip": "AspNetAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-06T20:05:21.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "AspNetAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "AspNetAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T20:10:53.844Z",
+              "WhenOpened": "2024-04-24T19:10:16.508Z",
               "EditorCaption": ""
             },
             {
@@ -75,9 +66,35 @@
               "RelativeDocumentMoniker": "AspNetAPI\\Program.cs",
               "ToolTip": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\Program.cs",
               "RelativeToolTip": "AspNetAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T19:59:33.787Z",
+              "WhenOpened": "2024-04-24T19:10:02.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AspNetAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "AspNetAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:09:53.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AspNetAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Github\\AspNET-Angular\\AspNet\\AspNetAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AspNetAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:55:23.764Z",
               "EditorCaption": ""
             }
           ]
